@@ -1,0 +1,23 @@
+.bgvideo {
+    height: 70vh;
+    width: 100%;
+    position: relative;
+    border-style: solid;
+    margin-left: 3px;
+    border-color: aquamarine;
+
+
+    
+}
+.bgvideo video {
+    height: 68vh;
+    width: 99%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    margin: 3px;
+    padding-right: 1px;
+}
+
+
